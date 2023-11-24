@@ -52,3 +52,4 @@ Simulates weather updates by calling setMeasurements on the subject.
 Creates instances of decorated observers (TemperatureUnitDecorator, WindVelocityDecorator, PrecipitationDecorator) and attaches them to the subject.
 Simulates weather updates with decorators.
 
+![Class Digram drawio](https://github.com/MohammadShawahni/AD_Assignment3/assets/92360594/c563fd34-4d43-4f06-a933-da09a18fb96c)
